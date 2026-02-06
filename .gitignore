@@ -1,0 +1,90 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Keil MDK-ARM specific
+MDK-ARM/DebugConfig/
+MDK-ARM/Listings/
+MDK-ARM/Objects/
+MDK-ARM/RTE/
+*.uvguix.*
+*.uvoptx
+*.bak
+*.dep
+*.uvgui.*
+*.uvopt
+*.plg
+*.tra
+*.htm
+*.ini
+*.scvd
+
+# IAR EWARM specific
+EWARM/settings/
+EWARM/Debug/
+EWARM/Release/
+*.wsdt
+*.dnx
+*.browse
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.wsdt
+*.dep
+*.ewt
+*.eww
+*.ewd
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# STM32CubeIDE
+.settings/
+Debug/
+Release/
+
+# System Files
+.DS_Store
+Thumbs.db
